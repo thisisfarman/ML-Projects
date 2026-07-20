@@ -1,0 +1,2 @@
+# ML-Projects
+A collection of Machine Learning projects built using Python, Scikit-learn, Pandas, NumPy, and Matplotlib, showcasing real-world problem solving, model development, and data analysis.
